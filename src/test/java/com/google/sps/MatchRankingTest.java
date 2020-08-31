@@ -382,7 +382,7 @@ public final class MatchRankingTest {
     expectedPerformance.put(25, 0.0);
     expectedPerformance.put(50, 0.2);
     expectedPerformance.put(60, 0.65);
-    expectedPerformance.put(70, 0.85);
+    expectedPerformance.put(70, 0.8);
     expectedPerformance.put(80, 0.9);
     expectedPerformance.put(90, 0.95);
     expectedPerformance.put(100, 0.99);
