@@ -10,31 +10,31 @@ When user had 20% keywords, it ranked ahead of user with 50.0% keywords 0% of ru
 
 When user had 25% keywords, it ranked ahead of user with 50.0% keywords 0% of runs.
 
-When user had 30% keywords, it ranked ahead of user with 50.0% keywords 2% of runs.
+When user had 30% keywords, it ranked ahead of user with 50.0% keywords 4% of runs.
 
-When user had 35% keywords, it ranked ahead of user with 50.0% keywords 2% of runs.
+When user had 35% keywords, it ranked ahead of user with 50.0% keywords 18% of runs.
 
-When user had 40% keywords, it ranked ahead of user with 50.0% keywords 14% of runs.
+When user had 40% keywords, it ranked ahead of user with 50.0% keywords 24% of runs.
 
-When user had 45% keywords, it ranked ahead of user with 50.0% keywords 32% of runs.
+When user had 45% keywords, it ranked ahead of user with 50.0% keywords 44% of runs.
 
-When user had 50% keywords, it ranked ahead of user with 50.0% keywords 62% of runs.
+When user had 50% keywords, it ranked ahead of user with 50.0% keywords 48% of runs.
 
-When user had 55% keywords, it ranked ahead of user with 50.0% keywords 74% of runs.
+When user had 55% keywords, it ranked ahead of user with 50.0% keywords 60% of runs.
 
-When user had 60% keywords, it ranked ahead of user with 50.0% keywords 70% of runs.
+When user had 60% keywords, it ranked ahead of user with 50.0% keywords 76% of runs.
 
-When user had 65% keywords, it ranked ahead of user with 50.0% keywords 74% of runs.
+When user had 65% keywords, it ranked ahead of user with 50.0% keywords 90% of runs.
 
-When user had 70% keywords, it ranked ahead of user with 50.0% keywords 94% of runs.
+When user had 70% keywords, it ranked ahead of user with 50.0% keywords 92% of runs.
 
 When user had 75% keywords, it ranked ahead of user with 50.0% keywords 96% of runs.
 
-When user had 80% keywords, it ranked ahead of user with 50.0% keywords 96% of runs.
+When user had 80% keywords, it ranked ahead of user with 50.0% keywords 98% of runs.
 
-When user had 85% keywords, it ranked ahead of user with 50.0% keywords 94% of runs.
+When user had 85% keywords, it ranked ahead of user with 50.0% keywords 100% of runs.
 
-When user had 90% keywords, it ranked ahead of user with 50.0% keywords 98% of runs.
+When user had 90% keywords, it ranked ahead of user with 50.0% keywords 100% of runs.
 
-When user had 95% keywords, it ranked ahead of user with 50.0% keywords 100% of runs.
+When user had 95% keywords, it ranked ahead of user with 50.0% keywords 98% of runs.
 
