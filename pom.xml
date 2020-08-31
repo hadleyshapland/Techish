@@ -83,7 +83,7 @@
         <version>2.2.0</version>
         <configuration>
           <!-- TODO: set project ID. -->
-          <deploy.projectId>techish</deploy.projectId>
+          <deploy.projectId>tech-mentors</deploy.projectId>
           <deploy.version>1</deploy.version>
         </configuration>
       </plugin>
